@@ -44,7 +44,6 @@ numpy 1.16.4
 完整的目录树
 
 ##########文件目录简略版
-C:.
 │  enhance_data.py            //增强数据
 │  image_change.py            //改变新引入图片的模式
 │  list.txt                   //完整的目录树
