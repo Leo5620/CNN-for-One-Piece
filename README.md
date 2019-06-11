@@ -45,11 +45,17 @@ numpy 1.16.4
 
 ##########文件目录简略版
 ├─enhance_data.py            //增强数据
+
 │  image_change.py            //改变新引入图片的模式
+
 │  list.txt                   //完整的目录树
+
 │  readme.md                  //help
+
 │  test_model.py              //测试模型
+
 │  test_result_0.818.PNG      //当前模型的测试结果
+
 │  train_model.py             //训练模型
 │  
 ├─enhanced_data               //增强后的数据集
